@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="200"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="200"/>
   <h1>รวมคีย์ลัด Visual Studio Code (Keyboard Shortcuts)</h1>
 </div>
 <div id="badges" align="center">
