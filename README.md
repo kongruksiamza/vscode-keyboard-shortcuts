@@ -78,7 +78,7 @@
 |ขยายหรือยกเลิกพับเก็บกลุ่มคำสั่ง (Unfold)| Ctrl + Shift + ] |Option + Cmd + ]|
 |พับเก็บกลุ่มคำสั่ง (Fold) **ทุกคำสั่ง** |Ctrl+K Ctrl+0 |Cmd+K Cmd+0|
 |ขยายหรือยกเลิกพับเก็บกลุ่มคำสั่ง (Unfold) **ทุกคำสั่ง** |Ctrl+K Ctrl+J |Cmd+K Cmd+J|
-|ใส่คอมเมนต์ในบรรทัดที่ต้องการ |Ctrl+K Ctrl+C |Cmd+K Cmd+C|
+|เพิ่มคอมเมนต์ในบรรทัดที่ต้องการ |Ctrl+K Ctrl+C |Cmd+K Cmd+C|
 |ยกเลิกคอมเมนต์ในบรรทัดที่ต้องการ |Ctrl+K Ctrl+U |Cmd+K Cmd+U|
-|ใส่หรือยกเลิกคอมเมนต์ |Ctrl + / |Cmd + /|
+|เพิ่มหรือยกเลิกคอมเมนต์ |Ctrl + / |Cmd + /|
 |เพิ่ม Block Comment |Shift + Alt + A |Shift + Option + A|
