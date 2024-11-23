@@ -24,8 +24,8 @@ Command หรือ Cmd (⌘) , Option (⌥) , Shift (⇧) , Control (⌃)
 |คัดลอกบรรทัด (หากไม่ได้เลือกอะไร) | Ctrl + C | Cmd + C|
 |เลื่อนบรรทัดขึ้น 1 บรรทัด | Alt + Up Arrow | Option + Up Arrow|
 |เลื่อนบรรทัดลง 1 บรรทัด | Alt + Down Arrow | Option + Down Arrow|
-|คัดลอกโค้ดบรรทัดปัจจุบันไปวางบรรทัดบน | Shift + Alt + Up Arrow | Shift + Option + Up Arrow|
-|คัดลอกโค้ดบรรทัดปัจจุบันไปวางบรรทัดล่าง | Shift + Alt + Down Arrow | Shift + Option + Down Arrow|
+|คัดลอกบรรทัดปัจจุบันไปวางบรรทัดบน | Shift + Alt + Up Arrow | Shift + Option + Up Arrow|
+|คัดลอกบรรทัดปัจจุบันไปวางบรรทัดล่าง | Shift + Alt + Down Arrow | Shift + Option + Down Arrow|
 |ลบบรรทัด | Ctrl + Shift + K | Shift + Cmd + K|
 |สร้างบรรทัดใหม่ด้านล่าง | Ctrl + Enter | Cmd + Enter|
 |สร้างบรรทัดใหม่ด้านบน |Ctrl + Shift + Enter |Shift + Cmd + Enter|
