@@ -59,3 +59,22 @@
 |ลบบรรทัด | Ctrl + Shift + K | Shift + Cmd + K|
 |สร้างบรรทัดใหม่ด้านล่าง | Ctrl + Enter | Cmd + Enter|
 |สร้างบรรทัดใหม่ด้านบน |Ctrl + Shift + Enter |Shift + Cmd + Enter|
+
+#### คีย์ลัดพื้นฐาน (กลุ่มที่ 2)
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|จับคู่สัญลักษณ์ bracket |Ctrl + Shift + \ |Shift + Cmd + \|
+|ใส่ย่อหน้า (Indent) |Ctrl + ] |Cmd + ]|
+|นำย่อหน้าออก (Indent) | Ctrl + [ |Cmd + [|
+|ไปยังตำแหน่งเริ่มต้นบรรทัด |Home |Home|
+|ไปยังตำแหน่งสิ้นสุดบรรทัด |End |End|
+|ไปยังบรรทัดแรกของไฟล์ |Ctrl + Home |Cmd + Up Arrow|
+|ไปยังบรรทัดสุดท้ายของไฟล์ |Ctrl + End |Cmd + Down Arrow|
+|เลื่อนหน้าจอขึ้น |Ctrl + Up Arrow |Control + PgUp|
+|เลื่อนหน้าจอลง |Ctrl + Down Arrow |Control + PgDn|
+|เลื่อนหน้าจอขึ้น 1 หน้า |Alt + PgUp |Cmd + PgUp|
+|เลื่อนหน้าจอลง 1 หน้า |Alt + PgDn |Cmd + PgDn|
+|พับเก็บกลุ่มคำสั่ง (Fold) |Ctrl + Shift + [ | Option + Cmd + [|
+|ขยายหรือยกเลิกพับเก็บกลุ่มคำสั่ง (Unfold)| Ctrl + Shift + ] |Option + Cmd + ]|
+|พับเก็บกลุ่มคำสั่ง (Fold) **ทุกคำสั่ง** |Ctrl+K Ctrl+0 |Cmd+K Cmd+0|
+|ขยายหรือยกเลิกพับเก็บกลุ่มคำสั่ง (Unfold) **ทุกคำสั่ง** |Ctrl+K Ctrl+J |Cmd+K Cmd+J|
