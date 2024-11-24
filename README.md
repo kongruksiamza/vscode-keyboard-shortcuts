@@ -103,7 +103,7 @@
 |เปิด Zen Mode |Ctrl+K Z |Cmd+K Z|
 |ออกจาก Zen Mode |Esc Esc |Esc Esc|
 
-#### หมวดหมู่การจัดการไฟล์ (File / Editor Management)
+## หมวดหมู่การจัดการไฟล์ (File / Editor Management)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |สร้างไฟล์ใหม่ |Ctrl + N Cmd + N|
