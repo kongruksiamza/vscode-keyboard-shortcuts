@@ -111,13 +111,13 @@
 |บันทึกไฟล์ |Ctrl + S |Cmd + S|
 |บันทึกไฟล์เป็น |Ctrl + Shift + S |Shift + Cmd + S|
 |บันทึกไฟล์ทั้งหมด |Ctrl+K S |Option + Cmd + S|
-|ปิดแท็ป Editor |Ctrl + F4 |Cmd + W|
-|ปิดแท็ป Editor ทั้งหมด |Ctrl+K Ctrl+W |Cmd+K Cmd+W|
-|เปิดแท็ป Editor ที่ปิดล่าสุด |Ctrl + Shift + T | Shift + Cmd + T|
+|ปิดแท็บ Editor |Ctrl + F4 |Cmd + W|
+|ปิดแท็บ Editor ทั้งหมด |Ctrl+K Ctrl+W |Cmd+K Cmd+W|
+|เปิดแท็บ Editor ที่ปิดล่าสุด |Ctrl + Shift + T | Shift + Cmd + T|
 |แบ่งหน้าจอ Editor |Ctrl + \ |Cmd + \|
-|คงแท็ป Preview Mode ไว้ |Ctrl+K Enter |Cmd+K Enter|
-|ไปยังแท็ปถัดไป |Ctrl + Tab |Control + Tab|
-|กลับไปยังแท็ปก่อนหน้า |Ctrl + Shift + Tab |Control + Shift + Tab|
+|คงแท็บ Preview Mode ไว้ |Ctrl+K Enter |Cmd+K Enter|
+|ไปยังแท็บถัดไป |Ctrl + Tab |Control + Tab|
+|กลับไปยังแท็บก่อนหน้า |Ctrl + Shift + Tab |Control + Shift + Tab|
 |คัดลอกตำแหน่งไฟล์ปัจจุบัน (Path) |Ctrl+K P |Cmd+K P|
 |แสดงที่อยู่ไฟล์ปัจจุบันบน Explorer / Finder |Ctrl+K R |Cmd+K R|
 |เปิดไฟล์ปัจจุบันในหน้าต่างใหม่ |Ctrl+K O |Cmd+K O|
