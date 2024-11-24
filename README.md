@@ -83,6 +83,26 @@
 |เพิ่มหรือยกเลิกคอมเมนต์ |Ctrl + / |Cmd + /|
 |เพิ่ม Block Comment |Shift + Alt + A |Shift + Option + A|
 
+## หมวดหมู่การแสดงผล (Display)
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|เปิด-ปิดโหมด Full Screen |F11 |Control + Cmd + F|
+|ซูมเข้า (Zoom in) |Ctrl + = | Cmd + =|
+|ซูมออก (Zoom out) |Ctrl + - | Shift + Cmd + -|
+|เปิด-ปิด Sidebar (Activity Bar) |Ctrl + B |Cmd + B|
+|เปิดแถบเมนู Explorer / Toggle Focus |Ctrl + Shift + E |Shift + Cmd + E|
+|เปิดแถบเมนู Search |Ctrl + Shift + F |Shift + Cmd + F|
+|เปิดแถบเมนู Source Control |Ctrl + Shift + G |Control + Shift + G|
+|เปิดแถบเมนู Debug |Ctrl + Shift + D |Shift + Cmd + D|
+|เปิดแถบเมนู Extensions |Ctrl + Shift + X |Shift + Cmd + X|
+|เปิดแถบเมนู Replace |Ctrl + Shift + H |Shift + Cmd + H|
+|เปิด-ปิดช่องค้นหา |Ctrl + Shift + J |Shift + Cmd + J|
+|แสดง Output Panel |Ctrl + Shift + U |Shift + Cmd + U|
+|พรีวิวไฟล์ Markdown |Ctrl + Shift + V |Shift + Cmd + V|
+|พรีวิวไฟล์ Markdown (ด้านข้าง) |Ctrl+K V |Cmd+K V|
+|เปิด Zen Mode |Ctrl+K Z |Cmd+K Z|
+|ออกจาก Zen Mode |Esc Esc |Esc Esc|
+
 ## หมวดหมู่การนำทาง (Navigation)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
