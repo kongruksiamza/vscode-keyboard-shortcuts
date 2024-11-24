@@ -96,7 +96,7 @@
 |เปิดแถบเมนู Debug |Ctrl + Shift + D |Shift + Cmd + D|
 |เปิดแถบเมนู Extensions |Ctrl + Shift + X |Shift + Cmd + X|
 |เปิดแถบเมนู Replace |Ctrl + Shift + H |Shift + Cmd + H|
-|เปิด-ปิดช่องค้นหา |Ctrl + Shift + J |Shift + Cmd + J|
+|เปิด-ปิดช่องค้นหา (File Include / Exclude) |Ctrl + Shift + J |Shift + Cmd + J|
 |แสดง Output Panel |Ctrl + Shift + U |Shift + Cmd + U|
 |พรีวิวไฟล์ Markdown |Ctrl + Shift + V |Shift + Cmd + V|
 |พรีวิวไฟล์ Markdown (ด้านข้าง) |Ctrl+K V |Cmd+K V|
