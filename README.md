@@ -82,3 +82,18 @@
 |ยกเลิกคอมเมนต์ในบรรทัดที่ต้องการ |Ctrl+K Ctrl+U |Cmd+K Cmd+U|
 |เพิ่มหรือยกเลิกคอมเมนต์ |Ctrl + / |Cmd + /|
 |เพิ่ม Block Comment |Shift + Alt + A |Shift + Option + A|
+
+### หมวดหมู่การนำทาง (Navigation)
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|แสดง Symbol ทั้งหมด |Ctrl + T |Cmd + T|
+|ไปยัง Symbol ที่ต้องการ |Ctrl + Shift + O| Shift + Cmd + O|
+|ไปยังบรรทัดที่ต้องการ |Ctrl + G |Control + G|
+|ไปยังไฟล์ที่ต้องการ |Ctrl + P |Cmd + P|
+|แสดง Problems Panel |Ctrl + Shift + M |Shift + Cmd + M|
+|ไปยังตำแหน่ง Error หรือ Warning ถัดไป |F8 |F8|
+|ไปยังตำแหน่ง Error หรือ Warning ก่อนหน้า |Shift + F8 |Shift + F8|
+|แสดงรายชื่อไฟล์ที่เปิดใน Editor |Ctrl + Shift + Tab |Control + Shift + Tab|
+|ถอยกลับไปยังไฟล์ก่อนหน้าที่เปิดใน Editor |Alt + Left Arrow |Control + -|
+|ไปยังไฟล์ถัดไปที่เปิดใน Editor |Alt + Right Arrow |Control + Shift + -|
+|เปิด/ปิด Tab Moves Focus |Ctrl + M |Control + Shift + M|
