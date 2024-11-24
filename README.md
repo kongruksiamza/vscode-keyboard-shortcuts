@@ -27,21 +27,21 @@
   </a>
 </div>
 
-### คำอธิบายประกอบ 
-- #### สัญลักษณ์คีย์บอร์ดบน macOS
+## คำอธิบายประกอบ 
+- ### สัญลักษณ์คีย์บอร์ดบน macOS
     - Command หรือ Cmd (⌘)
     - Option (⌥)
     - Shift (⇧)
     - Control (⌃)
 
-- #### ศัพท์เฉพาะ 
+- ### ศัพท์เฉพาะ 
   - ↑ (ลูกศรชี้ขึ้น) = ปุ่ม Up Arrow  
   - ↓ (ลูกศรชี้ลง) = ปุ่ม Down Arrow 
   - PgUp = ปุ่ม PageUp
   - PgDown = ปุ่ม PageDown
 ---
 
-### คีย์ลัดพื้นฐาน(กลุ่มที่ 1)
+## คีย์ลัดพื้นฐาน(กลุ่มที่ 1)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |แสดง Command Palette | Ctrl + Shift + P, F1 | Shift + Cmd + P, F1|
@@ -60,7 +60,7 @@
 |สร้างบรรทัดใหม่ด้านล่าง | Ctrl + Enter | Cmd + Enter|
 |สร้างบรรทัดใหม่ด้านบน |Ctrl + Shift + Enter |Shift + Cmd + Enter|
 
-### คีย์ลัดพื้นฐาน (กลุ่มที่ 2)
+## คีย์ลัดพื้นฐาน (กลุ่มที่ 2)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |จับคู่สัญลักษณ์ bracket |Ctrl + Shift + \ |Shift + Cmd + \|
@@ -83,7 +83,7 @@
 |เพิ่มหรือยกเลิกคอมเมนต์ |Ctrl + / |Cmd + /|
 |เพิ่ม Block Comment |Shift + Alt + A |Shift + Option + A|
 
-### หมวดหมู่การนำทาง (Navigation)
+## หมวดหมู่การนำทาง (Navigation)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |แสดง Symbol ทั้งหมด |Ctrl + T |Cmd + T|
