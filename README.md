@@ -113,7 +113,7 @@
 |บันทึกไฟล์ทั้งหมด |Ctrl+K S |Option + Cmd + S|
 |ปิดแท็บ Editor |Ctrl + F4 |Cmd + W|
 |ปิดแท็บ Editor ทั้งหมด |Ctrl+K Ctrl+W |Cmd+K Cmd+W|
-|เปิดแท็บ Editor ที่ปิดล่าสุด |Ctrl + Shift + T | Shift + Cmd + T|
+|เปิดแท็บ Editor ที่ปิดล่าสุดขึ้นมาใหม่ |Ctrl + Shift + T | Shift + Cmd + T|
 |แบ่งหน้าจอ Editor |Ctrl + \ |Cmd + \|
 |คงแท็บ Preview Mode ไว้ |Ctrl+K Enter |Cmd+K Enter|
 |ไปยังแท็บถัดไป |Ctrl + Tab |Control + Tab|
