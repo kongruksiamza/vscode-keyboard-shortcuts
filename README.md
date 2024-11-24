@@ -106,7 +106,7 @@
 ## หมวดหมู่การจัดการไฟล์ (File / Editor Management)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
-|สร้างไฟล์ใหม่ |Ctrl + N Cmd + N|
+|สร้างไฟล์ใหม่ |Ctrl + N | Cmd + N|
 |เปิดไฟล์ |Ctrl + O |Cmd + O|
 |บันทึกไฟล์ |Ctrl + S |Cmd + S|
 |บันทึกไฟล์เป็น |Ctrl + Shift + S |Shift + Cmd + S|
