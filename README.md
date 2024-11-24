@@ -90,7 +90,7 @@
 |ซูมเข้า (Zoom in) |Ctrl + = | Cmd + =|
 |ซูมออก (Zoom out) |Ctrl + - | Shift + Cmd + -|
 |เปิด-ปิด Sidebar (Activity Bar) |Ctrl + B |Cmd + B|
-|เปิดแถบเมนู Explorer / Toggle Focus |Ctrl + Shift + E |Shift + Cmd + E|
+|เปิดแถบเมนู Explorer |Ctrl + Shift + E |Shift + Cmd + E|
 |เปิดแถบเมนู Search |Ctrl + Shift + F |Shift + Cmd + F|
 |เปิดแถบเมนู Source Control |Ctrl + Shift + G |Control + Shift + G|
 |เปิดแถบเมนู Debug |Ctrl + Shift + D |Shift + Cmd + D|
