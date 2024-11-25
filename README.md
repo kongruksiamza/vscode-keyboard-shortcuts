@@ -191,7 +191,7 @@
 |ยกเลิกการแทรก Cursor ในตำแหน่งล่าสุด |Ctrl + U |Cmd + U|
 |เลือกแถวในตำแหน่งที่ Cursor อยู่ |Ctrl + L |Cmd + L|
 
-## Debug
+## หมวดหมู่ Debug
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |เพิ่ม-ยกเลิก Breakpoint |F9 |F9|
