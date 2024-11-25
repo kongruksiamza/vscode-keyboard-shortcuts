@@ -167,3 +167,17 @@
 |เปลี่ยนชื่อ Symbols |F2 | F2|
 |ตัดช่องว่าง |Ctrl+K Ctrl+X |Cmd+K Cmd+X|
 |เปลี่ยนรูปแบบภาษาโปรแกรมในไฟล์ที่กำหนด (File Language) |Ctrl+K M |Cmd+K M|
+
+## หมวดหมู่การค้นหาและแทนที่ (Search and Replace)
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|เปิดช่องค้นหา |Ctrl + F |Cmd + F|
+|เปิดช่องค้นหาและแทนที่ |Ctrl + H |Option + Cmd + F|
+|ไปยังตำแหน่งถัดไปที่ค้นเจอ |F3 |Cmd + G|
+|ไปยังตำแหน่งก่อนหน้าที่ค้นเจอ|Shift + F3 |Shift + Cmd + G|
+|เลือกตำแหน่งที่ค้นเจอทั้งหมด |Alt + Enter |Option + Enter|
+|เพิ่มการเลือกไปยังตำแหน่งถัดไปที่ค้นเจอ |Ctrl + D |Cmd + D|
+|ไปยังตำแหน่งสุดท้ายที่ค้นเจอ |Ctrl+K Ctrl+D |Cmd+K Cmd+D|
+|เปิด-ปิด Case-Sensitive |Alt + C |Option + Cmd + C|
+|เปิด-ปิด Regex |Alt + R |Option + Cmd + R|
+|เปิด-ปิด Whole Word |Alt + W |Option + Cmd + W|
