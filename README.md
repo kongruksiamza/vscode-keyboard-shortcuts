@@ -170,7 +170,7 @@
 |แสดง Suggestion (Autocomplete)| Ctrl+Space, Ctrl+I |Control+Space,Cmd+I|
 |แสดง Parameter Hints (รายละเอียดของพารามิเตอร์) |Ctrl + Shift + Space |Shift + Cmd + Space|
 |จัดรูปแบบเอกสาร |Shift + Alt + F |Shift + Option + F|
-|จัดรูปแบบเฉพาะส่วนที่เลือก |Ctrl+K Ctrl+F |Cmd+K Cmd+F|
+|จัดรูปแบบเอกสาร (เฉพาะส่วนที่เลือก) |Ctrl+K Ctrl+F |Cmd+K Cmd+F|
 |ไปยังตำแหน่ง Definition |F12 |F12|
 |เปิด Definition |Alt + F12 |Option + F12|
 |เปิด Definition (ด้านข้าง) |Ctrl+K F12 |Cmd+K F12|
