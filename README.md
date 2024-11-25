@@ -151,3 +151,19 @@
 |เลื่อนหน้าจอลง 1 หน้า| Shift + PgDn |PgDn|
 |เลื่อนขึ้นด้านบนสุด| Ctrl + Home |Cmd + Home|
 |เลื่อนลงด้านล่างสุด| Ctrl + End |Cmd + End|
+
+#### หมวดหมู่ Rich Language Editing
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|แสดง Suggestion (Autocomplete)| Ctrl+Space, Ctrl+I |Control+Space,Cmd+I|
+|แสดง Parameter Hints (รายละเอียดของพารามิเตอร์) |Ctrl + Shift + Space |Shift + Cmd + Space|
+|จัดรูปแบบเอกสาร |Shift + Alt + F |Shift + Option + F|
+|จัดรูปแบบเฉพาะส่วนที่เลือก |Ctrl+K Ctrl+F |Cmd+K Cmd+F|
+|ไปยังตำแหน่ง Definition |F12 |F12|
+|เปิด Definition |Alt + F12 |Option + F12|
+|เปิด Definition (ด้านข้าง) |Ctrl+K F12 |Cmd+K F12|
+|แสดงคำแนะนำและวิธีแก้ปัญหา (Quick Fix) |Ctrl + .| Cmd + .|
+|แสดง References |Shift + F12 |Shift + F12|
+|เปลี่ยนชื่อ Symbols |F2 | F2|
+|ตัดช่องว่าง |Ctrl+K Ctrl+X |Cmd+K Cmd+X|
+|เปลี่ยนรูปแบบภาษาโปรแกรมในไฟล์ที่กำหนด (File Language) |Ctrl+K M |Cmd+K M|
