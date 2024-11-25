@@ -181,3 +181,12 @@
 |เปิด-ปิด Case-Sensitive |Alt + C |Option + Cmd + C|
 |เปิด-ปิด Regex |Alt + R |Option + Cmd + R|
 |เปิด-ปิด Whole Word |Alt + W |Option + Cmd + W|
+
+## หมวดหมู่ Selection และ Cursor
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|แทรก Cursor ในตำแหน่งที่ต้องการ |Alt + Click |Option + Click|
+|แทรก Cursor ในตำแหน่งด้านบน |Ctrl + Alt + Up Arrow |Option + Cmd+ Up Arrow|
+|แทรก Cursor ในตำแหน่งด้านล่าง |Ctrl + Alt + Down Arrow |Option + Cmd + Down Arrow|
+|ยกเลิกการแทรก Cursor ในตำแหน่งล่าสุด |Ctrl + U |Cmd + U|
+|เลือกแถวในตำแหน่งที่ Cursor อยู่ |Ctrl + L |Cmd + L|
