@@ -152,7 +152,7 @@
 |เลื่อนขึ้นด้านบนสุด| Ctrl + Home |Cmd + Home|
 |เลื่อนลงด้านล่างสุด| Ctrl + End |Cmd + End|
 
-#### หมวดหมู่ Rich Language Editing
+## หมวดหมู่ Rich Language Editing
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |แสดง Suggestion (Autocomplete)| Ctrl+Space, Ctrl+I |Control+Space,Cmd+I|
