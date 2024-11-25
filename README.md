@@ -34,6 +34,7 @@
 - [หมวดหมู่การแสดงผล (Display)](#หมวดหมู่การแสดงผล-display)
 - [หมวดหมู่การจัดการไฟล์ (File / Editor Management)](#หมวดหมู่การจัดการไฟล์-file--editor-management)
 - [หมวดหมู่ Integrated Terminal](#หมวดหมู่-integrated-terminal)
+- [หมวดหมู่ Rich Language](#หมวดหมู่-rich-language)
 - [หมวดหมู่การค้นหาและแทนที่ (Search and Replace)](#หมวดหมู่การค้นหาและแทนที่-search-and-replace)
 - [หมวดหมู่ Selection และ Cursor](#หมวดหมู่-selection-และ-cursor)
 - [หมวดหมู่ Debug](#หมวดหมู่-debug)
