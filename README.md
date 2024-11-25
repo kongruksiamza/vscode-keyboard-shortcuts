@@ -190,3 +190,15 @@
 |แทรก Cursor ในตำแหน่งด้านล่าง |Ctrl + Alt + Down Arrow |Option + Cmd + Down Arrow|
 |ยกเลิกการแทรก Cursor ในตำแหน่งล่าสุด |Ctrl + U |Cmd + U|
 |เลือกแถวในตำแหน่งที่ Cursor อยู่ |Ctrl + L |Cmd + L|
+
+## Debug
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|เพิ่ม-ยกเลิก Breakpoint |F9 |F9|
+|เริ่มต้นทำงาน / ดำเนินการต่อ | F5| F5|
+|หยุดการทำงาน| Shift + F5| Shift + F5|
+|Step Over (กระโดดไปบังบรรทัดถัดไป)| F10| F10|
+|Step Into (เข้าไปทำงานในฟังก์ชั่นหรือเมธอดที่กำหนด)| F11| F11|
+|Step Out (จบการทำงานในฟังก์ชั่นหรือเมธอดที่กำหนด)| Shift + F11| Shift + F11|
+|แสดงรายละเอียดในตำแหน่งที่ทำการ Debug| Ctrl+K Ctrl+I |Cmd+K Cmd+I|
+
