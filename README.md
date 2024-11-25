@@ -137,3 +137,17 @@
 |ถอยกลับไปยังไฟล์ก่อนหน้าที่เปิดใน Editor |Alt + Left Arrow |Control + -|
 |ไปยังไฟล์ถัดไปที่เปิดใน Editor |Alt + Right Arrow |Control + Shift + -|
 |เปิด/ปิด Tab Moves Focus |Ctrl + M |Control + Shift + M|
+
+## หมวดหมู่ Integrated Terminal
+|การทำงาน (Action)|Windows|macOS|
+|:----:|:-------:|:-------------:|
+|เปิด-ปิด Terminal |Ctrl + ` (backtick) | Control + ` (backtick)|
+|สร้าง Terminal ใหม่| Ctrl + Shift + ` |Control + Shift + `|
+|คัดลอกส่วนที่เลือกใน Terminal| Ctrl + C |Cmd + C|
+|วางส่วนที่เลือกใน Terminal| Ctrl + V |Cmd + V|
+|เลื่อนหน้าจอขึ้น| Ctrl + Up Arrow |Cmd + Up Arrow|
+|เลื่อนหน้าจอลง| Ctrl + Down Arrow |Cmd + Down Arrow|
+|เลื่อนหน้าจอขึ้น 1 หน้า| Shift + PgUp |PgUp|
+|เลื่อนหน้าจอลง 1 หน้า| Shift + PgDn |PgDn|
+|เลื่อนขึ้นด้านบนสุด| Ctrl + Home |Cmd + Home|
+|เลื่อนลงด้านล่างสุด| Ctrl + End |Cmd + End|
