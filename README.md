@@ -41,7 +41,7 @@
   - PgDown = ปุ่ม PageDown
 ---
 
-## คีย์ลัดพื้นฐาน(กลุ่มที่ 1)
+## คีย์ลัดพื้นฐาน (กลุ่มที่ 1)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
 |แสดง Command Palette | Ctrl + Shift + P, F1 | Shift + Cmd + P, F1|
