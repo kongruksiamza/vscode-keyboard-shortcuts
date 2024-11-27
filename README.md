@@ -102,11 +102,11 @@
 |ซูมเข้า (Zoom in) |Ctrl + = | Cmd + =|
 |ซูมออก (Zoom out) |Ctrl + - | Shift + Cmd + -|
 |เปิด-ปิด Sidebar (Activity Bar) |Ctrl + B |Cmd + B|
-|เปิดแถบเมนู Explorer |Ctrl + Shift + E |Shift + Cmd + E|
-|เปิดแถบเมนู Search |Ctrl + Shift + F |Shift + Cmd + F|
-|เปิดแถบเมนู Source Control |Ctrl + Shift + G |Control + Shift + G|
-|เปิดแถบเมนู Debug |Ctrl + Shift + D |Shift + Cmd + D|
-|เปิดแถบเมนู Extensions |Ctrl + Shift + X |Shift + Cmd + X|
+|เปิด Explorer View |Ctrl + Shift + E |Shift + Cmd + E|
+|เปิด Search View |Ctrl + Shift + F |Shift + Cmd + F|
+|เปิด Source Control View |Ctrl + Shift + G |Control + Shift + G|
+|เปิด Run & Debug View |Ctrl + Shift + D |Shift + Cmd + D|
+|เปิด Extensions View |Ctrl + Shift + X |Shift + Cmd + X|
 |เปิดแถบเมนู Replace |Ctrl + Shift + H |Shift + Cmd + H|
 |เปิด-ปิดช่องค้นหา (File Include / Exclude) |Ctrl + Shift + J |Shift + Cmd + J|
 |แสดง Output Panel |Ctrl + Shift + U |Shift + Cmd + U|
