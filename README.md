@@ -56,7 +56,7 @@
 ## คีย์ลัดพื้นฐาน (กลุ่มที่ 1)
 |การทำงาน (Action)|Windows|macOS|
 |:----:|:-------:|:-------------:|
-|แสดง Command Palette | Ctrl + Shift + P, F1 | Shift + Cmd + P, F1|
+|แสดง Command Palette | Ctrl + Shift + P หรือ F1 | Shift + Cmd + P หรือ F1|
 |เปิดไฟล์ / ไปยังไฟล์ที่ต้องการ | Ctrl + P | Cmd + P|
 |เปิดหน้าต่างใหม่ | Ctrl + Shift + N | Shift + Cmd + N|
 |ปิดหน้าต่างปัจจุบัน | Ctrl + Shift + W | Cmd + W|
