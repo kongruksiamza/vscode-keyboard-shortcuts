@@ -190,9 +190,9 @@
 |เลือกตำแหน่งที่ค้นเจอทั้งหมด |Alt + Enter |Option + Enter|
 |เพิ่มการเลือกไปยังตำแหน่งถัดไปที่ค้นเจอ |Ctrl + D |Cmd + D|
 |ไปยังตำแหน่งสุดท้ายที่ค้นเจอ |Ctrl+K Ctrl+D |Cmd+K Cmd+D|
-|เปิด-ปิด Case-Sensitive |Alt + C |Option + Cmd + C|
-|เปิด-ปิด Regex |Alt + R |Option + Cmd + R|
-|เปิด-ปิด Whole Word |Alt + W |Option + Cmd + W|
+|เปิด-ปิด Match Case |Alt + C |Option + Cmd + C|
+|เปิด-ปิด Use Regular Expression |Alt + R |Option + Cmd + R|
+|เปิด-ปิด Match Whole Word |Alt + W |Option + Cmd + W|
 
 ## หมวดหมู่ Selection และ Cursor
 |การทำงาน (Action)|Windows|macOS|
